@@ -49,14 +49,19 @@ My current focus is **web application security, server penetration testing, Linu
 
 ## Selected work
 
-<!-- PINNED_PROJECTS_START -->
-<!-- Generated automatically from your GitHub pinned repositories. -->
-<div align="center">
+<!-- PINNED_PROJECTS_START -->\n<table>\n<tr>\n<td width="50%" valign="top">
 
-> Your pinned repositories will appear here after the GitHub Actions workflow runs.
+<a href="https://github.com/eldarshiraliyev/BugScanner"><strong>BugScanner ↗</strong></a>
 
-</div>
-<!-- PINNED_PROJECTS_END -->
+🐛 Advanced web vulnerability scanner with 5-rule false-positive reduction, WAF evasion, and modern HTML reports
+
+<br/><br/>
+
+<sub><img src="https://img.shields.io/badge/Python- -?style=flat-square&labelColor=202124&color=3572A5" alt="Python"/> &nbsp; ★ 102 &nbsp;⑂ 14</sub>
+
+<code>asyncio</code> <code>attack-surface</code> <code>bug-bounty</code>
+
+</td>\n<td width="50%" valign="top"></td>\n</tr>\n</table>\n<!-- PINNED_PROJECTS_END -->
 
 <sub>Pin or unpin repositories on your GitHub profile; this section syncs automatically.</sub>
 
