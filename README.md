@@ -49,19 +49,29 @@ My current focus is **web application security, server penetration testing, Linu
 
 ## Selected work
 
-<!-- PINNED_PROJECTS_START -->\n<table>\n<tr>\n<td width="50%" valign="top">
+<!-- PINNED_PROJECTS_START -->
 
-<a href="https://github.com/eldarshiraliyev/BugScanner"><strong>BugScanner ↗</strong></a>
+<table>
+<tr>
+<td width="100%" valign="top">
 
-🐛 Advanced web vulnerability scanner with 5-rule false-positive reduction, WAF evasion, and modern HTML reports
+<h3><a href="https://github.com/eldarshiraliyev/BugScanner">BugScanner ↗</a></h3>
 
-<br/><br/>
+<p>🐛 Advanced web vulnerability scanner with 5-rule false-positive reduction, WAF evasion, and modern HTML reports</p>
 
-<sub><img src="https://img.shields.io/badge/Python- -?style=flat-square&labelColor=202124&color=3572A5" alt="Python"/> &nbsp; ★ 102 &nbsp;⑂ 14</sub>
+<p>
+  <img src="https://img.shields.io/badge/Language-Python-3572A5?style=flat-square&amp;labelColor=202124" alt="Python" />
+  &nbsp; <strong>★</strong> 102
+  &nbsp; <strong>⑂</strong> 14
+</p>
 
-<code>asyncio</code> <code>attack-surface</code> <code>bug-bounty</code>
+<p><code>asyncio</code> &nbsp; <code>attack-surface</code> &nbsp; <code>bug-bounty</code></p>
 
-</td>\n<td width="50%" valign="top"></td>\n</tr>\n</table>\n<!-- PINNED_PROJECTS_END -->
+</td>
+</tr>
+</table>
+
+<!-- PINNED_PROJECTS_END -->
 
 <sub>Pin or unpin repositories on your GitHub profile; this section syncs automatically.</sub>
 
