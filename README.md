@@ -62,7 +62,7 @@ My current focus is **web application security, server penetration testing, Linu
 <p>
   <img src="https://img.shields.io/badge/Language-Python-3572A5?style=flat-square&amp;labelColor=202124" alt="Python" />
   &nbsp; <strong>★</strong> 104
-  &nbsp; <strong>⑂</strong> 14
+  &nbsp; <strong>⑂</strong> 15
 </p>
 
 <p><code>asyncio</code> &nbsp; <code>attack-surface</code> &nbsp; <code>bug-bounty</code></p>
